@@ -1,0 +1,175 @@
+Solutii obtinute cu breadth first:Solutie:1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:-1
+Totalul de noduri:0
+
+----------------
+Solutii obtinute cu depth first:Solutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:-1
+Totalul de noduri:0
+
+----------------
+Solutii obtinute cu depth first iterativ:**************
+Adancime maxima: 1Solutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0009975433349609375secunde
+Maximul de noduri:-1
+Totalul de noduri:0
+
+----------------
+
+
+##################
+Solutii obtinute cu A*:Solutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:0
+Totalul de noduri:0
+
+----------------
+Solutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:0
+Totalul de noduri:0
+
+----------------
+Solutii cu a_starOptSolutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:0
+Totalul de noduri:0
+
+----------------
+Solutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:0
+Totalul de noduri:0
+
+----------------
+Solutii cu ida_starSolutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:-1
+Totalul de noduri:0
+
+----------------
+Solutie: 1)
+cost:0
+@ a . . b b b b . g
+. . . . g . g . . r
+b g . a . a a . m .
+r . . m . r . . . a
+r g . m . . . . a .
+. a . . . r . m . .
+. r . . a . m . . m
+b r . b . m . . . g
+. g . . . g . b g g
+[]
+Cost: 0
+Lungime: 1
+0.0secunde
+Maximul de noduri:-1
+Totalul de noduri:0
+
+----------------

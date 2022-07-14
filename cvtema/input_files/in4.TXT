@@ -1,0 +1,19 @@
+a 10 1
+g 5 5
+b 7 5
+r 4 3
+m 8 4
+gradina
+@a..bbbb.g
+....g.g..r
+bg.a.aa.m.
+r..m.r...a
+rg.m....a.
+.a...r.m..
+.r..a.m..m
+br.b.m...g
+.g...g.bgg
+buchet
+g 1
+r 3
+b 4
